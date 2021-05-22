@@ -1,0 +1,27 @@
+{
+  "name": "idle_timer",
+  "version": "1.0.0",
+  "description": "Code snippet for calculating ideal time in a page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logon2ashwin/Idle_timer.git"
+  },
+  "keywords": [
+    "javascript",
+    "ideal",
+    "time"
+  ],
+  "author": "Ashwin Baskaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logon2ashwin/Idle_timer/issues"
+  },
+  "homepage": "https://github.com/logon2ashwin/Idle_timer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
